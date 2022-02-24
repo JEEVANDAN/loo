@@ -8,7 +8,7 @@ body{
 text-align: center;
 background-image: url(./123.jpg);
 background-size:cover;
-background-repeat: no-repeat;
+background-repeat: ;
 }
 #content-box{
    border: none;
@@ -22,7 +22,7 @@ background-size: 100%;
     padding: 10px;
     margin: 37%;
     margin-top: 60%;
-    margin-left: auto;
+    margin-left: 7%;
     border-radius: 40px;
 }
 #calculate{
