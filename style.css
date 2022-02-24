@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+text-align: center;
+background-image: url(./123.jpg);
+background-size:cover;
+background-repeat: ;
+}
+#content-box{
+   border: none;
+   position: relative;
+   border-bottom: 2px solid black;
+    color: white;
+    width: 300px;
+    height: 200px;
+background-image: url("./jivan.png");
+background-size: 100%;
+    padding: 10px;
+    margin: 37%;
+    margin-top: 60%;
+    margin-left: 7%;
+    border-radius: 40px;
+}
+#calculate{
+    width: 100px;
+    
+    height: 30px;
+    color: white;
+    background-color: rgba(236, 22, 22, 0.938);
+    border-radius: 20px;
+}
+.res{
+    background-color:none;
+    
+}
+@media(max-width:998rem) {
+    html {
+        font-size: 55%;
+
+    }
+    
+}
+@media(max-width:768rem) {
+    html {
+        font-size: 45%;
+
+    }
+    
+}
